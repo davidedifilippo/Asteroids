@@ -4,4 +4,4 @@ Asteroids is a game written in c++ by https://github.com/embeddedmz/16-Games. Co
 
 
 
-![This is an image](/assets/images/frame1.png)
+![game frame](/assets/frames/frame_1.png)
